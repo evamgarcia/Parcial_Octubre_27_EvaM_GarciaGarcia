@@ -20,7 +20,5 @@ o = Alumno("guille", 10)
 lista = [m, d, o]
 calificacion(lista)
 
-    #def __str__(self):
-        #return "el alumno {} tiene {} de nota".format(self.nombre, self.nota)
 
 
