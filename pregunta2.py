@@ -3,7 +3,7 @@
 def multiplos(lista):
     lista2 = []
     for i in lista:
-        if i % 10 == 0 and i < 200:
+        if (i % 10 == 0) and (i < 200):
             lista2.append(i)
             return lista2
         
