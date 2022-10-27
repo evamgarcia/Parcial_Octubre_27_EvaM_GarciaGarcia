@@ -14,7 +14,7 @@ def mostrar (self):
 
 def calificacion(self):
     if self.nota >= 5:
-        print("el alumno {} esta aprobrado ").format(self.nombre)
+        print("el alumno esta aprobrado ")
     else:
         print("el alumno esta suspendido")
 
