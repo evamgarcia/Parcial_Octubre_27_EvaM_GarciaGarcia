@@ -6,10 +6,10 @@ class Alumno():
         self.nombre = nombre 
         self.nota = nota 
 
-def mostrar (self):
-    print("Nombre: ", self.nombre)
-    print("Nota: ", self.nota)
-    print("El alumno se ha creado con exito")
+    def mostrar (self):
+        print("Nombre: ", self.nombre)
+        print("Nota: ", self.nota)
+        print("El alumno se ha creado con exito")
 
 
 def calificacion(self):
